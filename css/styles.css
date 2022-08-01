@@ -30,8 +30,11 @@ spans {
 h3{
   font-family: 'Montserrat','sans-serif';
   color:#11999E;
+  font-weight: normal;
 }
-
+.Git{
+font-size:1rem;
+}
 p{
   line-height: 2;
 }
